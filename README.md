@@ -16,7 +16,7 @@
 
 ## 🚀 Installation
 
-1. 📂 Copier le dossier `InactivityTracker` dans le dossier `plugins` de votre serveur Nova-Life.
+1. 📂 Installe le dossier `InactivityTracker` dans le dossier `plugins` de votre serveur Nova-Life.
 2. 🔄 Redémarrer le serveur pour activer le plugin.
 
 ---
