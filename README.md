@@ -4,13 +4,20 @@
 
 ---
 
-## ✨ Fonctionnalités principales
+## ✨ Fonctionnalités
+✨ **Fonctionnalités principales**
+📋 Liste interactive de tous les terrains achetés affichée dans un panneau UI
+ℹ️ Affichage détaillé des informations du terrain : ID, propriétaire, dernière connexion, temps d’inactivité
+🚀 Téléportation instantanée vers le terrain sélectionné
+❌ Fermeture facile du panneau
+🔒 Commande réservée aux admins (/inactivity)
 
-* 📋 Liste interactive de tous les terrains achetés affichée dans un panneau UI
-* ℹ️ Affichage détaillé des informations du terrain : ID, propriétaire, dernière connexion, temps d’inactivité
-* 🚀 Téléportation instantanée vers le terrain sélectionné
-* ❌ Fermeture facile du panneau
-* 🔒 Commande réservée aux admins (`/inactivity`)
+✨ **Fonctionnalités entreprises**
+• Panneau interactif listant toutes les entreprises triées par dernière connexion de leurs employés
+• Possibilité de supprimer une entreprise directement via le panel
+• Notification automatique sur Discord en embed quand une entreprise inactive est supprimée
+• Configuration simple via fichier JSON dans le dossier Plugins
+• Permissions vérifiées pour limiter l’accès aux administrateurs
 
 ---
 
